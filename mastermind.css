@@ -1,0 +1,35 @@
+.little_dot {
+	margin-top: 60px;
+	margin-left: -114px;
+	width: 30px;
+	height: 30px;
+}
+.little_dottwo {
+	margin-top: 60px;
+	margin-left: -62px;
+	width: 30px;
+	height: 30px;
+}
+body {
+	margin-right: 1100px;
+	background-color: green;
+}
+.kleurbruin {
+	margin-left: -54px;
+	padding-top: 80px;
+}
+p {
+	color: white;
+}
+.kleur {
+	width:30px;
+	height: 30px;
+}
+#box {
+	height: 100px;
+	width: 100px;
+}
+.dots {
+	width: 30px;
+	height: 30px;
+}
